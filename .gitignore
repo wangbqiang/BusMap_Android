@@ -1,0 +1,8 @@
+.DS_Store
+.metadata/
+.classpath
+.project
+libs/android*.jar
+gen/
+bin/
+
